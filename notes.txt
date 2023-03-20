@@ -1,0 +1,15 @@
+make a folder with frontend and backend folders in that folder
+1. open terminal => npx create-react-app frontend --template typescript
+    typescript is a debugging availablility for js
+2. cd frontend
+3. npm start
+
+Linting helps us to keep a design patterns for react
+installing ESLINT
+
+Go to extensions tab and search eslint and install it. then make sure to have the probe include typscript
+    THis will give us the tools to know what is happening
+
+Go to terminal and do npm install prettier --save-dev to save prettier to all of our projects
+
+add the .eslintrc.json and .prettierrc.json.
